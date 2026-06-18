@@ -26,7 +26,7 @@ INSPIRE TO SOFTWARE ENGINEER
 
 ## 🚀 About Me:
 - 🎓 B.Tech Student
-- 💻 Learning DSA with JAVA  + Data Analytics + devops engineer
+- 💻 Learning DSA with JAVA  + Data Analytics + python
 - 🔥 Goal: Placement in top company
 
 
