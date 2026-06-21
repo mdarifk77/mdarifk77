@@ -3,7 +3,14 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Data+Analytics;Open+Source+Contributor&center=true&width=500&height=50">
-</p>
+</p> 
+
+## 🧠 About Me
+- 🎓 B.Tech (Engineering) Student  
+- 💻 Learning DSA with JAVA + Software Development + Data Analytics
+- 🤖 Exploring Data Science 
+- 🚀 Goal: Software Engineer
+
 
 
 ## 💻 Tech Stack:
@@ -28,11 +35,6 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mdarifk77)
 
 ---
-
-## 🚀 About Me:
-- 🎓 B.Tech Student
-- 💻 Learning DSA with JAVA  + Data Analytics + python
-- 🔥 Goal: Placement in top company
 
 
 <!--
