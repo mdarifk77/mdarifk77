@@ -36,6 +36,15 @@
 
 ---
 
+## 📊 GitHub Analytics:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdarifk77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdarifk77&theme=tokyonight&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&hide_border=true"/>
+</p>
+
 
 <!--
 **mdarifk77/mdarifk77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
