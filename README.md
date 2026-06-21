@@ -1,5 +1,5 @@
 <h1 align="center">Hii👋, I'm Md Arif Karim </h1>
-<h3 align="center">🚀 B.Tech Student | Learning DSA with JAVA | Data Analytics </h3>
+<h3 align="center">🚀 B.Tech Student  |  Learning DSA with JAVA  |  Data Analytics </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Data+Analytics;Open+Source+Contributor&center=true&width=500&height=50">
@@ -8,7 +8,7 @@
 ## 🧠 About Me
 - 🎓 B.Tech (Engineering) Student  
 - 💻 Learning DSA with JAVA + Software Development + Data Analytics
-- 🤖 Exploring Data Science 
+- 🤖 Exploring Data Science Engineering
 - 🚀 Goal: Software Engineer
 
 
